@@ -6,7 +6,7 @@ A C++ program that builds a binary phylogenetic tree from a species dissimilarit
 
 ## Overview
 
-Given a distance (dissimilarity) matrix between N species, the program repeatedly merges the two most similar species under a common ancestor, recalculates distances to the new ancestor, and repeats until a single root — the common ancestor of all species — remains.
+Given a distance (dissimilarity) matrix between N species, the program repeatedly merges the two most similar species under a common ancestor, recalculates distances to the new ancestor, and repeats until a single root (the common ancestor of all species) remains.
 
 The project had to satisfy strict complexity constraints, since it is designed to scale to matrices of **up to several thousand species**.
 
