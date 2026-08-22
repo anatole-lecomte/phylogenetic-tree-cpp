@@ -59,4 +59,5 @@ make projet          # final version: builds the full tree
 ## Authors
 
 Anatole Lecomte, Hugo Moussiaux, Komildzhon Samadov
+
 Supervised by Prof. Jérémie Roland
