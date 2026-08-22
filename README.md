@@ -58,8 +58,8 @@ make projet          # final version: builds the full tree
 
 ## Authors
 
-- Lecomte Anatole
-- Moussiaux Hugo
-- Samadov Komildzhon
+- LECOMTE Anatole
+- MOUSSIAUX Hugo
+- SAMADOV Komildzhon
 
 Supervised by Prof. Jérémie Roland
